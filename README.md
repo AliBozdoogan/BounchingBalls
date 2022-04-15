@@ -11,14 +11,15 @@ Canvas kütüphanesini kullanaraktan bir pencere oluşturdum ve içine 5 tane ö
 
 Ek olarak mouse ve topların nasıl kesişim kümesini matematiksel olarak nasıl bulduğumu göstermek içinde bir jpeg dosyası yüklüyorum. Arzu ederseniz onuda inceleyebilirsiniz.
 
+Elimden geldiğince if-else yapısını kullanmamaya gayret ettim. Çözüm için fonksiyon tanımları ve for döngülerini kullandım .
 
 Anlatıklarımın hepsini bir video çekerekde elimden geldiğince anlatmaya çalıştım, isterseniz videodanda izleyebilirsiniz.
-
+ 
 
 Link:
 
 
-https://youtu.be/5kx-8Z5g26U
+https://youtu.be/wTBivkzNrbw
 
 EN
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,6 +32,7 @@ I created the 3-dimensional space by writing my own matrix product function. Act
 
 Additionally, I am uploading a jpeg file to show how I mathematically find the intersection set of mice and balls. If you wish, you can examine it.
 
+I tried not to use the if-else structure as much as I could. I used function definitions and for loops for the solution.
 
 I tried to explain all of my narratives as much as I could by making a video, you can watch it on the video if you want.
 
@@ -38,4 +40,4 @@ I tried to explain all of my narratives as much as I could by making a video, yo
 Link:
 
 
-https://youtu.be/5kx-8Z5g26U
+https://youtu.be/wTBivkzNrbw
